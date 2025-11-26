@@ -61,13 +61,17 @@ with projects like:
 
 ---
 
-## 📊 GitHub Stats & Languages  
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rashmioffcialpage&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmioffcialpage&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Rashmioffcialpage&theme=tokyonight&hide_border=true" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rashmioffcialpage&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rashmioffcialpage&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashmioffcialpage&layout=compact&theme=tokyonight" height="160px"/>
+</p>
+
 
 ---
 
