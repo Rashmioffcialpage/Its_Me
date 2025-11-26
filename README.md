@@ -1,7 +1,7 @@
 <div style="text-align: center;">
     <img src="https://github.com/user-attachments/assets/74f83a79-af4a-416f-9c70-65ce3b997c82" 
          alt="Friendly Portrait of Rashmi" 
-         width="200" height="300" />
+         width="300" height="400" />
     <h1>AI/ML Engineer • Software Developer • Content Creator • MS in Artificial Intelligence (LIU – 2026) <strong>Rashmi</strong>!</h1>
 </div>
 
