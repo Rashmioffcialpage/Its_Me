@@ -1,218 +1,101 @@
-AI / ML / Software Engineering Portfolio
-By Rashmi — Master’s in Artificial Intelligence, Long Island University (2026)
+Rashmi — AI & Machine Learning Engineer | Full-Stack & Creative Technologist
 
-Welcome to my comprehensive AI/ML + Software Engineering Portfolio, built to showcase the full spectrum of my technical skills for 2026 internship opportunities across AI, Machine Learning, Software Engineering, Full-Stack Development, and Data Science.
+Hi! I’m Rashmi, a passionate AI/ML Engineer, Deep Learning Developer, and Full-Stack Innovator currently pursuing my Master’s in Artificial Intelligence at Long Island University, NYC.
 
-This repository contains 15 professionally structured projects ranging from foundational ML implementations to advanced LLMs, MLOps pipelines, YOLO models, full-stack web apps, and real-time systems.
+I love building intelligent systems, experimenting with neural networks, and creating digital experiences that blend AI + creativity + engineering.
 
-📌 Portfolio Goals
+🚀 About Me
 
-This portfolio demonstrates:
+🎓 Master’s in Artificial Intelligence (2026), Long Island University – Brooklyn
 
-✔ Strong understanding of core ML algorithms & theory
+🤖 Focus areas: Deep Learning, Computer Vision, Generative AI, MLOps, Recommendation Systems
 
-✔ Real-world experience with deep learning, NLP, CV, LLM fine-tuning, RL
+💼 Preparing for Summer 2026 internships (AI/ML, Data Science, Software Engineering)
 
-✔ Ability to build production-ready systems (FastAPI, MERN stack, CI/CD)
+📸 Currently growing as a content creator (YouTube + TikTok)
 
-✔ Skills in data preprocessing, model evaluation & visualization
+✍️ Active LinkedIn blogger with 2K+ followers
 
-✔ Solid foundations in DSA, Python, and software engineering
+🔥 Interested in building AI frameworks, automation systems, and real-world ML applications
 
-✔ Hands-on projects using TensorFlow, PyTorch, HuggingFace, YOLOv8
+🧪 Previously published: “IoTML-Based Food Freshness Detection System”
 
-🗂 Project Overview
-1. ML From Scratch (NumPy Only)
+🌐 Exploring research areas in Wildfire Detection, Health Analytics, & Predictive Modeling
 
-Logistic Regression
+🛠 Tech Stack
+Machine Learning & AI
 
-Neural Network from scratch
+Python • TensorFlow • PyTorch • Keras • Scikit-Learn
+OpenCV • Pandas • NumPy • Matplotlib • Seaborn
 
-Shows mathematical understanding + implementation ability.
+Deep Learning
 
-2. Data Structures & Algorithms Prep
+CNNs • RNN/LSTM • Transformers • GANs • Transfer Learning
+ViT • Autoencoders
 
-Arrays, Linked Lists, Trees, Graphs, DP, Sorting
+Dev & Cloud
 
-Demonstrates competitive programming + coding interview readiness.
+Git • GitHub • Docker • Linux
+AWS (EC2, S3, SageMaker) • GCP • FastAPI • Flask
 
-3. Exploratory Data Analysis (EDA)
+Frontend & Tools
 
-Projects:
+HTML • CSS • JS • React • Figma
+Postman • VS Code
 
-Netflix Data
+📂 Featured Projects
+🔥 1. Plant Species Classifier (CNN + Transfer Learning)
 
-Housing Prices
+High-accuracy multi-class image classification using TensorFlow.
 
-Customer Churn
-Focus on insights, visualization, and storytelling with data.
+🌲 2. Wildfire Spread Prediction (ML Framework)
 
-4. Image Classifier (TensorFlow CNN)
+Final project using image data (Kaggle Wildfire dataset) for binary classification.
 
-End-to-end image classification pipeline with:
+👁️ 3. Real-Time Face Emotion Recognition (OpenCV + DL)
 
-preprocessing
+Custom CNN + real-time deployment.
 
-CNN model
+🎙️ 4. Audio Command Recognition using Spectrograms
 
-evaluation metrics
+Signal processing + CNN classifier.
 
-saved model + analysis
+📱 5. Fashion Outfit Recommendation System (End-to-End)
 
-5. NLP Sentiment Analysis (LSTM / BiLSTM)
+Embedding networks + similarity search.
 
-Text processing pipeline
+🌟 More projects coming soon — I am building 15 full projects to complete my GitHub AI portfolio.
 
-LSTM model training
+📊 GitHub Analytics
 
-Confusion matrix & visualizations
 
-6. Credit Card Fraud Detection
 
-Imbalanced dataset handling (SMOTE)
 
-XGBoost + Random Forest
+🌐 Let's Connect
 
-ROC–AUC based evaluation
+LinkedIn
+ • YouTube
+ • TikTok
+ • Portfolio Website (Coming Soon!)
 
-7. Object Detection with YOLOv8
+✨ Fun Facts About Me
 
-Custom dataset
+I love creating AI + content creation combo projects
 
-Training, inference
+I enjoy exploring new datasets, especially on Kaggle
 
-Evaluation + results visualizations
+I’m building a disciplined habit of one project per week
 
-8. Mini LLM Chatbot (GPT-2 / LLaMA Fine-Tuning)
+My long-term goal: AI Research Engineer at TikTok / Google DeepMind / OpenAI
 
-Fine-tuned small LLM
+🔥 Current Focus
 
-Chat interface (Gradio)
+✔ Completing 15 AI/ML projects for my GitHub
+✔ Preparing for 2026 Summer Internships
+✔ Growing my LinkedIn + content creation
+✔ Deep diving into TensorFlow multi-class models
+✔ Publishing research-ready ML projects
 
-Custom dataset for conversations
+🏆 My Motto
 
-9. Time-Series Forecasting (LSTM)
-
-Stock/weather forecasting
-
-Sequence modeling
-
-Prediction vs actual visualization
-
-10. MERN CRUD Full-Stack App
-
-Full-stack internship-grade project:
-
-MongoDB
-
-Express
-
-React
-
-Node.js
-Includes authentication + dashboard.
-
-11. AI Web App (FastAPI + Streamlit)
-
-Deploy an ML model through:
-
-FastAPI backend
-
-Streamlit UI
-
-Real-time predictions
-
-12. Realtime Chat App (Node.js + Socket.io)
-
-WebSockets
-
-Live messaging
-
-Typing indicators, online users, etc.
-
-13. End-to-End ML Pipeline (MLOps Style)
-
-Data ingestion
-
-Model training
-
-Experiment tracking
-
-CI/CD (GitHub Actions)
-
-Deployment folder
-
-14. NLP Resume Parser
-
-Extract text
-
-Identify sections
-
-Named entity extraction
-
-Streamlit front-end
-
-15. Reinforcement Learning Agent (Gymnasium)
-
-RL environment
-
-Policy training
-
-Performance charts
-
-🛠 Tech Stack Used
-Programming Languages
-
-Python
-
-JavaScript
-
-Node.js
-
-SQL
-
-Machine Learning
-
-Scikit-Learn
-
-TensorFlow / Keras
-
-PyTorch
-
-XGBoost
-
-YOLOv8
-
-HuggingFace Transformers
-
-Gymnasium
-
-Deployment & MLOps
-
-FastAPI
-
-Flask
-
-Streamlit
-
-Docker (optional)
-
-GitHub Actions (CI/CD)
-
-Frontend / Backend
-
-React.js
-
-Node.js
-
-Express.js
-
-MongoDB
-
-📫 Contact
-
-Rashmi
-📍 Newyork,NY
-🔗 LinkedIn: coming soon
-🧠 GitHub: this portfolio
-🎥 Content Creator (YouTube + TikTok)
+“Build. Train. Improve. Repeat.”
