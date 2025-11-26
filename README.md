@@ -73,7 +73,8 @@ with projects like:
 </p>
 
 
----
+---<img width="1024" height="1536" alt="Friendly Portrait of Rashmi" src="https://github.com/user-attachments/assets/044c5add-6357-4239-90a1-3838a84a93eb" />
+
 
 ## 🤝 Connect With Me  
 
