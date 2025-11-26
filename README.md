@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/rashmi_avatar.png" alt="Rashmi Avatar" width="150"/>
+</p>
+
 <h1 align="center">💫 Hey there, I'm <strong>Rashmi</strong>!</h1>
 
 <p align="center">
